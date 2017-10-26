@@ -1,0 +1,30 @@
+body {
+  font-family: "Signika", sans-serif;
+}
+ul {
+  list-style-type: none;
+}
+body {
+  background-color: #ffdab9;
+  margin-top: 106px;
+  margin-bottom: 50px;
+}
+.btn-primary {
+  background-color: salmon;
+  border: 2px solid black;
+  color: black;
+}
+.card-title {
+  color: #8b0000;
+}
+.h1 {
+  color: #8b0000;
+  font-size: 1.5rem;
+}
+.dropdown-item:visited {
+  background-color: #dc143c;
+}
+.btn-primary:hover {
+  background-color: #dc143c;
+  border: 2px solid white;
+}
